@@ -1,0 +1,7 @@
+{
+    "require": {
+        "monolog/monolog": "^3.10",
+        "phpmailer/phpmailer": "^7.0",
+        "twilio/sdk": "^8.10"
+    }
+}
